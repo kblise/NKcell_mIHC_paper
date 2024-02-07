@@ -18,7 +18,7 @@ This repository contains all code necessary to reproduce the spatial analysis re
 
 **b.** Create new conda environment with necessary packages: `conda env create -f nkEnv.yml`
 
-**c.** Activate pdacEnv conda environment: `source activate nkEnv` or `conda activate nkEnv` depending on Conda version
+**c.** Activate nkEnv conda environment: `source activate nkEnv` or `conda activate nkEnv` depending on Conda version
 
 ## 3) Run bash script to create directories, download data, and run Python script to generate figures
 
