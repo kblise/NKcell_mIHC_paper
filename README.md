@@ -1,6 +1,6 @@
-# Natural Killer cells occupy unique spatial neighborhoods in human HER2- and HER2+ breast cancers
+# Natural killer cells occupy unique spatial neighborhoods in human HER2- and HER2+ breast cancers
 
-This repository contains all code necessary to reproduce the spatial analysis results and figures of the manuscript "Natural Killer cells occupy unique spatial neighborhoods in human HER2- and HER2+ breast cancers." All data, including the output of the multiplex immunohistochemistry computational imaging processing workflow for each tissue region and metadata for each region, are available on Zenodo: [DOI: 10.5281/zenodo.10632694](https://doi.org/10.5281/zenodo.10632694).
+This repository contains all code necessary to reproduce the spatial analysis results and figures of the publication "Natural killer cells occupy unique spatial neighborhoods in human HER2- and HER2+ breast cancers," which can be found here: [https://doi.org/10.1186/s13058-025-01964-4](https://doi.org/10.1186/s13058-025-01964-4). All data, including the output of the multiplex immunohistochemistry computational imaging processing workflow for each tissue region and metadata for each region, are available on Zenodo: [DOI: 10.5281/zenodo.10632694](https://doi.org/10.5281/zenodo.10632694).
 
 # Steps to Create Figures
 
